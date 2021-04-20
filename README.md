@@ -5,7 +5,7 @@
 ![BJK_logo icon](https://github.com/bjk12/LittleBird_TypeExercise/blob/main/bjk1.ico)  
 ## 目录
 * [current_test](#current_test)
-  * [DBSCANdemo.m](#dbscandemo)
+  * [DBSCANdemo.m](#DBSCANdemo)
   * [Nasen.m](#nasen)
   * [SDFT.m](#sdft)
   * [WakeSleep.m](#WakeSleep算法)
