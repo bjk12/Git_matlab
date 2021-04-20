@@ -8,7 +8,7 @@
   * [DBSCANdemo.m](#dbscandemo)
   * [Nasen.m](#nasen)
   * [SDFT.m](#sdft)
-  * [WakeSleep.m](#wakesleep算法)
+  * [WakeSleep.m](#WakeSleep算法)
   * [bjk_lqr.m](#bjk_lqr)
   * [figure3Dtest.m](#figure3dtest)
   * [sir.m](#sir)
