@@ -34,7 +34,9 @@ DBSCAN(Density-Based Spatial Clustering of Applications with Noise)**基于密�
 2. 灵活，可以选择性地只求解频域的前n个点,进一步减少数据计算量，提高数据处理效率；<br>
 3. 简单，三行代码即可搞定，同复杂的基2fft相比，可谓是傻瓜式算法。<br>
 ### WakeSleep
-Hinton大神为了求解置信神经网络的后验概率所设计的醒眠算法的伪代码，思想理解了，复现就、就有点难度，溜了溜了~
+Hinton大神为了求解置信神经网络的后验概率所设计的醒眠算法的伪代码，思想理解了，复现就、就有点难度，溜了溜了~<br>
+
+![pic4_wake_sleep](https://github.com/bjk12/Git_matlab/blob/main/current_test/dbn_ws_updownAlgorithm.png)
 ### bjk_lqr
 LQR(linear quadratic regulator)线性二次型调节器,基于MATLAB代码测试
 ### figure3Dtest
