@@ -4,6 +4,10 @@
 
 ![BJK_logo icon](https://github.com/bjk12/LittleBird_TypeExercise/blob/main/bjk1.ico)  
 ## 目录
+* [ModelingCompetition](#ModelingCompetition)
+  * [2019_1837_A](#2019_1837_A)
+  * [2020_1517_D](#2020_1517_D)
+  * [从剪刀石头布说开去](#从剪刀石头布说开去)
 * [current_test](#current_test)
   * [DBSCANdemo.m](#DBSCANdemo)
   * [Nasen.m](#nasen)
@@ -14,6 +18,23 @@
   * [sir.m](#sir)
   * [sirrun2.m](#sirrun2)
 * [signal_fft](#signal_fft)
+
+## ModelingCompetition
+**ModelingCompetition** 文件夹，保存着建模比赛的基于matlab的代码。<br>
+
+### 2019_1837_A
+19年的小美赛A题，拿了特等奖（OutStanding Winner），清酒珍馐，以慰风尘。一带二是真的辛苦 ( ´•︵•` ) ，从此不再参加建模比赛。<br>
+
+### 2020_1517_D
+20年的小美赛D题，二等奖，这次没参加，只是辅导其他同学。那不忍直视的论文，可惜了我的算法和代码。明明单论思想和有趣程度，我都觉得这次比19年那次做得更好。<br>
+
+等啥时候有空把这篇论文展开讲讲，标题我都想好了，就叫《**从剪刀石头布说开去——非合作博弈中的N个角色实现平衡的一种方法及其鲁棒性分析**》<br>
+
+### 从剪刀石头布说开去
+
+&#8195;&#8195;**——非合作博弈中的N个角色实现平衡的一种方法及其鲁棒性分析**<br>
+
+**此处未完待续**<br>
 
 ## current_test
 **current_test** 文件夹，保存着复现各种算法的代码<br>
@@ -53,5 +74,3 @@ LQR(linear quadratic regulator)线性二次型调节器,基于MATLAB代码测试
 **bjk_readtext.m：** 从.txt文件中读取数据，然后另存为方便读取的.mat文件；<br>
 **bjk_fft.m：** 从.mat文件中读取数据，然后对数据fft并绘制成图；<br>
 **real_data.mat：** .txt文件中的数据被另存到了这里；<br>
-
-未完待续
